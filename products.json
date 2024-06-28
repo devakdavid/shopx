@@ -1,0 +1,76 @@
+
+[
+  {
+    "fastDelivery": true,
+    "id": "1",
+    "image": "/src/assets/image1.jpg",
+    "inStock": 5,
+    "title": "Product 1",
+    "price": 18.99,
+    "ratings": 4
+  },
+  {
+    "id": "2",
+    "title": "Product 2",
+    "price": 29.80,
+    "image": "/src/assets/image2.jpg",
+    "inStock": 3,
+    "fastDelivery": false,
+    "ratings": 5
+  },
+  {
+    "id": "3",
+    "title": "Product 3",
+    "price": 19.99,
+    "image": "/src/assets/image3.jpg",
+    "inStock": 2,
+    "fastDelivery": false,
+    "ratings": 5
+  },
+  {
+    "id": "4",
+    "title": "Product 4",
+    "price": 29.00,
+    "image": "/src/assets/image4.jpg",
+    "inStock": 1,
+    "fastDelivery": false,
+    "ratings": 3
+  },
+  {
+    "id": "5",
+    "title": "Product 5",
+    "price": 19.99,
+    "image": "/src/assets/image5.jpg",
+    "inStock": 5,
+    "fastDelivery": true,
+    "ratings": 4
+  },
+  {
+    "id": "6",
+    "title": "Product 6",
+    "price": 9.22,
+    "image": "/src/assets/image6.jpg",
+    "inStock": 6,
+    "fastDelivery": false,
+    "ratings": 5
+  },
+  {
+    "id": "7",
+    "title": "Product 77",
+    "price": 29.90,
+    "image": "/src/assets/image7.jpg",
+    "inStock": 2,
+    "fastDelivery": false,
+    "ratings": 2
+  },
+  {
+    "id": "8",
+    "title": "Product 8",
+    "price": 29.99,
+    "image": "/src/assets/image8.jpg",
+    "inStock": 8,
+    "fastDelivery": false,
+    "ratings": 1
+  }
+
+]
